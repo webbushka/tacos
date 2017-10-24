@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: index.js (Root) should not blow up 1`] = `"{\\"props\\":{},\\"context\\":{},\\"refs\\":{},\\"updater\\":{},\\"state\\":{\\"tacos\\":[{\\"name\\":\\"Asada\\",\\"src\\":\\"asada.png\\"},{\\"name\\":\\"Carnitas\\",\\"src\\":\\"carnitas.png\\"},{\\"name\\":\\"Pollo\\",\\"src\\":\\"pollo.png\\"}]},\\"_reactInternalFiber\\":\\"censored\\",\\"_reactInternalInstance\\":{}}"`;

@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: app.js should match the snapshot 1`] = `
+<div>
+  <ContentToggle
+    key="Asada"
+    summary="Asada"
+  >
+    <img
+      alt="Asada taco"
+      className="taco"
+      src="asada.png"
+    />
+  </ContentToggle>
+  <ContentToggle
+    key="Carnitas"
+    summary="Carnitas"
+  >
+    <img
+      alt="Carnitas taco"
+      className="taco"
+      src="carnitas.png"
+    />
+  </ContentToggle>
+  <ContentToggle
+    key="Pollo"
+    summary="Pollo"
+  >
+    <img
+      alt="Pollo taco"
+      className="taco"
+      src="pollo.png"
+    />
+  </ContentToggle>
+</div>
+`;

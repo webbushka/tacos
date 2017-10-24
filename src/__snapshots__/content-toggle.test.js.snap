@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: content-toggle should match the snapshot 1`] = `
+<div
+  className="content-toggle"
+>
+  <button
+    className="content-toggle__summary"
+    onClick={[Function]}
+  >
+    Taco Salad
+  </button>
+</div>
+`;
